@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Service Center</string>
+    <string name="Service_Center_Details">Service Center Details</string>
+    <string name="Add_Service">Add a known Service Centre</string>
+    <string name="Edit_Service">Edit Service Station</string>
+    <string name="Delete_Service">Delete Service Station</string>
+    <string name="Search_Service">Search Service Stations</string>
+    <string name="Service_Background">Search Service Stations</string>
+    <string name="Service_Station_Name">Service Station Name</string>
+    <string name="Service_Contact">Contact Number</string>
+    <string name="Service_Location">Location</string>
+    <string name="Add_Service_Stations">Add Service Station</string>
+    <string name="Add_Service_BTN">Add Service</string>
+    <string name="View_Service_Stations">View Service Stations</string>
+    <string name="DeleteBTN">Delete</string>
+    <string name="ServideID">ID</string>
+    <string name="EditService">Edit Service Center Details</string>
+    <string name="location">Enter Location</string>
+    <string name="search_Service_btn">Search Service</string>
+    <string name="get_Serv">Get</string>
+</resources>
